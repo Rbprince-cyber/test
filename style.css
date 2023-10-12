@@ -1,0 +1,95 @@
+.bg{
+    background-color: #2F1893;
+    color :white;
+}
+
+.signup{
+    background-color: white;
+    margin-left: 60%;
+    margin-right: 10%;
+    box-shadow: #2F1893;
+    text-align: center;
+    padding: 20px;   
+    position: relative;
+    border-radius: 5px;
+    color: #4c4c4d;
+}
+
+.input{
+    border-color: rgba(188, 187, 187, 0.753);
+    width:80%;
+    border-radius: 20px;
+    padding: 10px;
+    display: inline-block;
+}
+
+.header{
+    text-align: center;
+    width:950px;
+    padding-left: 200px;
+    padding-top: 10px;
+}
+
+.header a{
+    float: right;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+}
+
+
+.vl {
+    position: relative;
+    text-align: center;
+  }
+  
+  .vl:before{
+    content:" ";
+    height: 2px;
+    width: 150px;
+    background: rgb(176, 176, 176);
+    display: block;
+    position: absolute;
+    top: 50%;
+    left: 0;
+  }
+  
+  .vl:after{
+    content:" ";
+    height: 2px;
+    width: 150px;
+    background: rgb(176, 176, 176);
+    display: block;
+    position: absolute;
+    top: 50%;
+    right: 0;
+  }
+
+  .snbtn{
+    width:80%;
+    border-radius: 20px;
+    padding: 10px;
+    color: white;
+  }
+
+  .rightbx{
+     float: left;
+     padding-top: 60px;
+     padding-left: 215px;
+  }
+
+  .row{
+    padding-top: 8%;
+    padding-right: 55px;
+  }
+
+  .smbtn{
+    width:130%;
+    border-radius: 20px;
+    padding: 10px;
+    color:white;
+    background:rgb(241, 90, 118);
+    margin-bottom: 0px;
+  }
