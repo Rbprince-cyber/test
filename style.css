@@ -1,6 +1,7 @@
 .bg{
     background-color: #2F1893;
     color :white;
+    width:fit-content;
 }
 
 .signup{
@@ -28,6 +29,7 @@
     width:950px;
     padding-left: 200px;
     padding-top: 10px;
+    padding-right:200px ;
 }
 
 .header a{
@@ -72,6 +74,7 @@
     border-radius: 20px;
     padding: 10px;
     color: white;
+    
   }
 
   .rightbx{
@@ -93,3 +96,4 @@
     background:rgb(241, 90, 118);
     margin-bottom: 0px;
   }
+
